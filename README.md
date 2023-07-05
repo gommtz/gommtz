@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Victor's+GitHub+Profile!)](https://git.io/typing-svg)
 
-I am a Machine Learning Engineer at Datyra, Mexico.
-Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science) 
-and contributing to open source.
+Software Engineer with 6+ years as a Python backend developer. Strong knowledge of programming languages such as Python, Javascript, C++ and a good understanding of agile software development. Apart from that I am a seasonal ML developer that loves writing articles (on Machine Learning, Data Science) and contributing to open source.
 
 
 ```python
