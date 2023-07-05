@@ -11,7 +11,7 @@ class VictorGomez():
     self.username = "victorgommtz";
     self.location = "Oaxaca, Mexico";
     self.web = "https://victor.dev";
-    self.email = "victor.g@datyra.com"
+    self.email = "victor.gommtz@gmail.com"
   
   def __str__(self):
     return self.name
