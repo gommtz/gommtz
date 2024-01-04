@@ -8,7 +8,7 @@ class VictorGomez():
     
   def __init__(self):
     self.name = "Victor Gomez";
-    self.username = "victorgommtz";
+    self.username = "gommtz";
     self.location = "Oaxaca, Mexico";
     self.web = "https://victor.dev";
     self.email = "victor.gommtz@gmail.com"
